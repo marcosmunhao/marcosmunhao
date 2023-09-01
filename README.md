@@ -9,4 +9,4 @@ I'm a physicist with a passion for astronomy.
  
 I'm also a data scientist, with a lot of enthusiasm in exploring data.
 
- _ I work with some python libraries such as Pandas, Seaborn, Numpy, Geopandas, Scikit-Learn, etc.
+ - I work with some python libraries such as Pandas, Seaborn, Numpy, Geopandas, Scikit-Learn, etc.
