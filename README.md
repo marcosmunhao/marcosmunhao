@@ -1,12 +1,31 @@
-# Hi there 👋 🪐
+# Hello! I'm Marcos Munhão 👋
 
+## About Me
 
-I'm Marcos Munhão, and I like to go camping!
+🎓 **Education:** 
+- Integrated High School Technical Course in Computer Science from Federal Institue of Mato Grosso do Sul (IFMS)
+- Bachelor of Science in Physics from Federal University of Mato Grosso do Sul (UFMS)
+- Data Science Training, Statistical Training with Python, Data Modeling Training and SQL Server: SQL with Microsoft SQL Server 2019 from Alura
+- MBA in Data Science & Analytics from Luiz de Queiroz College of Agriculture at the University of São Paulo (Esalq/USP - _Expected completion in 2025_)
 
+<!--💻 **What I Do:** 
+- [Your current job title] at [Company Name or Freelance Work]
+- [Brief description of your responsibilities or projects] -->
 
-I'm a physicist with a passion for astronomy.
+🛠 **Technical Skills:**
+- **Programming Languages:** Python, SQL, R
+<!-- - **Frameworks and Tools:** 
+- **Other:** [Any other relevant technical skills]
 
- 
-I'm also a data scientist, with a lot of enthusiasm in exploring data.
+🚀 **Highlighted Projects:**
+- **[Project Name]:** [Brief description of the project, what it does, and which technologies were used. Include a link to the repository.]
+- **[Project Name]:** [Another project description with similar details.] -->
 
- - I work with some python libraries such as Pandas, Seaborn, Numpy, Geopandas, Scikit-Learn, etc.
+🌱 **Currently Learning:**
+- Machine Learning Techniques
+- Brazilian General Data Protection Law (LGPD)
+
+💡 **Fun Fact:**
+- Astronomy has fascinated me since I was a child. However, in college, I discovered that academic life wasn't for me (though I still love astronomy)
+- My undergraduate thesis steered me towards the field of data
+- One of my favorite hobbies is exploring and camping in new places, with a touch of adventure
