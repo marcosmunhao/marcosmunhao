@@ -13,7 +13,8 @@
 - [Brief description of your responsibilities or projects] -->
 
 🛠 **Technical Skills:**
-- **Programming Languages:** Python, SQL, R
+- **Programming Languages:** Python, R
+- SQL
 <!-- - **Frameworks and Tools:** 
 - **Other:** [Any other relevant technical skills]
 
